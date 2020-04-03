@@ -1,0 +1,17 @@
+[
+    {
+        "firstname": "Jon",
+        "lastname": "Snow",
+        "position": "manager"
+    },
+    {
+        "firstname": "Arya",
+        "lastname": "Stark",
+        "position": "staff"
+    },
+    {
+        "firstname": "Tyrion",
+        "lastname": "Lannister",
+        "position": "trainee"
+    }
+]
